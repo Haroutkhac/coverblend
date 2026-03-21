@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <rect x="0" y="0" width="80" height="80" fill="#847346" stroke="#b35daa" stroke-width="1"/>
+  <rect x="80" y="0" width="80" height="80" fill="#00b3ad" stroke="#b35daa" stroke-width="1"/>
+  <rect x="160" y="0" width="80" height="80" fill="#00b3ad" stroke="#b35daa" stroke-width="1"/>
+  <rect x="240" y="0" width="80" height="80" fill="#b8ac6e" stroke="#b35daa" stroke-width="1"/>
+  <rect x="320" y="0" width="80" height="80" fill="#b8ac6e" stroke="#b35daa" stroke-width="1"/>
+  <rect x="0" y="80" width="80" height="80" fill="#8d6398" stroke="#b35daa" stroke-width="1"/>
+  <rect x="80" y="80" width="80" height="80" fill="#8d6398" stroke="#b35daa" stroke-width="1"/>
+  <rect x="160" y="80" width="80" height="80" fill="#8d6398" stroke="#b35daa" stroke-width="1"/>
+  <rect x="240" y="80" width="80" height="80" fill="#b8ac6e" stroke="#b35daa" stroke-width="1"/>
+  <rect x="320" y="80" width="80" height="80" fill="#847346" stroke="#b35daa" stroke-width="1"/>
+  <rect x="0" y="160" width="80" height="80" fill="#b8ac6e" stroke="#b35daa" stroke-width="1"/>
+  <rect x="80" y="160" width="80" height="80" fill="#8d6398" stroke="#b35daa" stroke-width="1"/>
+  <rect x="160" y="160" width="80" height="80" fill="#847346" stroke="#b35daa" stroke-width="1"/>
+  <rect x="240" y="160" width="80" height="80" fill="#b35daa" stroke="#b35daa" stroke-width="1"/>
+  <rect x="320" y="160" width="80" height="80" fill="#8d6398" stroke="#b35daa" stroke-width="1"/>
+  <rect x="0" y="240" width="80" height="80" fill="#8d6398" stroke="#b35daa" stroke-width="1"/>
+  <rect x="80" y="240" width="80" height="80" fill="#b8ac6e" stroke="#b35daa" stroke-width="1"/>
+  <rect x="160" y="240" width="80" height="80" fill="#847346" stroke="#b35daa" stroke-width="1"/>
+  <rect x="240" y="240" width="80" height="80" fill="#847346" stroke="#b35daa" stroke-width="1"/>
+  <rect x="320" y="240" width="80" height="80" fill="#b8ac6e" stroke="#b35daa" stroke-width="1"/>
+  <rect x="0" y="320" width="80" height="80" fill="#b35daa" stroke="#b35daa" stroke-width="1"/>
+  <rect x="80" y="320" width="80" height="80" fill="#b35daa" stroke="#b35daa" stroke-width="1"/>
+  <rect x="160" y="320" width="80" height="80" fill="#847346" stroke="#b35daa" stroke-width="1"/>
+  <rect x="240" y="320" width="80" height="80" fill="#8d6398" stroke="#b35daa" stroke-width="1"/>
+  <rect x="320" y="320" width="80" height="80" fill="#b35daa" stroke="#b35daa" stroke-width="1"/>
+</svg>

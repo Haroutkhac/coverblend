@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"><rect width="400" height="400" fill="#008491"/>
+  <g transform="rotate(0 200 200)">
+    <rect x="-80" y="-50" width="40" height="500" fill="#008491" opacity="0.91"/>
+    <rect x="-40" y="-50" width="40" height="500" fill="#a47290" opacity="0.77"/>
+    <rect x="0" y="-50" width="40" height="500" fill="#917436" opacity="0.71"/>
+    <rect x="40" y="-50" width="40" height="500" fill="#00aabc" opacity="0.58"/>
+    <rect x="80" y="-50" width="40" height="500" fill="#d49dbd" opacity="0.73"/>
+    <rect x="120" y="-50" width="40" height="500" fill="#008491" opacity="0.41"/>
+    <rect x="160" y="-50" width="40" height="500" fill="#a47290" opacity="0.74"/>
+    <rect x="200" y="-50" width="40" height="500" fill="#917436" opacity="0.53"/>
+    <rect x="240" y="-50" width="40" height="500" fill="#00aabc" opacity="0.78"/>
+    <rect x="280" y="-50" width="40" height="500" fill="#d49dbd" opacity="0.6"/>
+    <rect x="320" y="-50" width="40" height="500" fill="#008491" opacity="0.46"/>
+    <rect x="360" y="-50" width="40" height="500" fill="#a47290" opacity="0.8"/>
+    <rect x="400" y="-50" width="40" height="500" fill="#917436" opacity="0.87"/>
+    <rect x="440" y="-50" width="40" height="500" fill="#00aabc" opacity="0.62"/>
+  </g>
+</svg>

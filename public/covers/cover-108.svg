@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"><rect width="400" height="400" fill="#000b47"/>
+  <g transform="rotate(45 200 200)">
+    <rect x="-88.88888888888889" y="-50" width="44.44444444444444" height="500" fill="#000b47" opacity="0.57"/>
+    <rect x="-44.44444444444444" y="-50" width="44.44444444444444" height="500" fill="#baaefc" opacity="0.82"/>
+    <rect x="0" y="-50" width="44.44444444444444" height="500" fill="#001a65" opacity="0.93"/>
+    <rect x="44.44444444444443" y="-50" width="44.44444444444444" height="500" fill="#604992" opacity="0.57"/>
+    <rect x="88.88888888888889" y="-50" width="44.44444444444444" height="500" fill="#363675" opacity="0.5"/>
+    <rect x="133.33333333333334" y="-50" width="44.44444444444444" height="500" fill="#000b47" opacity="0.97"/>
+    <rect x="177.77777777777774" y="-50" width="44.44444444444444" height="500" fill="#baaefc" opacity="0.42"/>
+    <rect x="222.2222222222222" y="-50" width="44.44444444444444" height="500" fill="#001a65" opacity="0.63"/>
+    <rect x="266.66666666666663" y="-50" width="44.44444444444444" height="500" fill="#604992" opacity="0.58"/>
+    <rect x="311.1111111111111" y="-50" width="44.44444444444444" height="500" fill="#363675" opacity="0.81"/>
+    <rect x="355.55555555555554" y="-50" width="44.44444444444444" height="500" fill="#000b47" opacity="0.58"/>
+    <rect x="400" y="-50" width="44.44444444444444" height="500" fill="#baaefc" opacity="0.52"/>
+    <rect x="444.44444444444434" y="-50" width="44.44444444444444" height="500" fill="#001a65" opacity="0.87"/>
+  </g>
+</svg>
